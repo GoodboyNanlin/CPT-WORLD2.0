@@ -1,0 +1,9 @@
+﻿
+.course{ height:162px; background:transparent;}
+.course_nr{height:162px; background:url(../images/ico9.gif) repeat-x center;}
+.course_nr li{ float:left; background:url(../images/panda-2.png) no-repeat center top; padding-top:30px; width:100px; text-align:center; position:relative; margin-top:65px;}
+.shiji{ position:absolute; width:100%; left:0; top:-20px;}
+.shiji h1{ height:50px; line-height:50px; color:transparent; font-weight:bold;margin-bottom:8px;background:transparent;}
+.shiji p{color:#999;width:70px;text-align:center;margin-left:15px;}
+.shiji p:hover{color:#fff;cursor:pointer;}
+
